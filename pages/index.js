@@ -84,8 +84,12 @@ const Page = () =>{
                         Worked at PT. Berbagi dan Berkarya Indonesia as FrontEnd Developer.
                     </BioSection>
                     <BioSection>
-                        <BioYear>2021 to present</BioYear>
-                        Worked at PT. Enigma Cipta Humanika as Software Developer.
+                        <BioYear>2021 to 2022</BioYear>
+                        Worked at PT Enigma Cipta Humanika as Software Developer.
+                    </BioSection>
+                    <BioSection>
+                        <BioYear>2022 to present</BioYear>
+                        Worked at PT Inti Corpora Teknologi as Frontend Developer.
                     </BioSection>
                 </Section>
 
